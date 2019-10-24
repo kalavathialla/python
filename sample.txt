@@ -1,1 +1,2 @@
 This is a sample text to store git hub
+adding more data to text file
